@@ -1,13 +1,15 @@
 # ecommerce
 
-Word in progress...
+Work in progress...
+
+# It simulates checkout mechanism for an ecommerce site with interaction between classes
+
 
 * All the files are present in the src/main/java/core
 * It doesn't contain any client
 * It doesn't contain any configs
 * It doesn't contain any repository
 
-# It simulates checkout mechanism for an ecommerce site with interaction between classes
 
 
 
