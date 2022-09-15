@@ -1,4 +1,4 @@
-package models;
+package core;
 
 public class MainClass {
 
